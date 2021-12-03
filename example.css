@@ -1,0 +1,61 @@
+body
+{
+    background-color: lightcyan;
+}
+
+h1
+{
+    color:darksalmon;
+    text-align: center;
+
+}
+
+.newColor
+{
+    color: lightslategray;
+}
+
+h3       
+ {
+    color: darkred;
+    text-align: left;
+    font-style: oblique;
+    font-size: 23px;
+    line-height: 2;
+ }
+
+.class
+{
+    line-height: 2;
+    font-size: 18px;
+    background-color: white;
+    text-align: left;
+    text-shadow: 1px 1px yellowgreen;
+}
+
+li
+{
+color: lightsalmon;
+}
+
+a:link
+{
+    color: darkgoldenrod;
+    font-size: 16px;
+   
+}
+
+a:visited
+{
+    color:fuchsia;
+}
+
+a:hover
+{
+color: chocolate;
+background-color:white;
+}
+    
+a:active{
+    font-size: 25px;
+}
